@@ -271,10 +271,12 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34209.m3u8
 https://a1xs.vip/2000005
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="Tipi sprot",skai sprot epwan mamamia
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="Tipi sprot",skai sprot epwan spanyol
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://mytv-extra.com:88/live/1827214806/9371309264/34614.m3u8
+https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="Tipi sprot",skai sprot motogepeh sepanyol
