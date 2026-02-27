@@ -77,6 +77,12 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/7657.m3u8
 http://103.146.197.250:25461/live/daeng/tmgrh/13.m3u8
 #http://filex.me:8080/live/000003/000003/302247.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#EXTINF:-1 tvg-id="RTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object.streamized.net/img/rtv.png" group-title="Digital kah? gatau gweh",ertipi
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oR8KunwWb8Q/mqdefault.jpg" group-title="Digital kah? gatau gweh",sinpo tipi
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -711,6 +717,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/indick.kt
 https://cdn08jtedge.indihometv.com/dassdvr/133/cartoonnetwork/manifest_wuseetv.mpd
+
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="kartun uhuy",csrtoon network cignal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="kartun uhuy",cartoon network tapi khabunkhap
 #KODIPROP:inputstream.adaptive.license_type=clearkey
