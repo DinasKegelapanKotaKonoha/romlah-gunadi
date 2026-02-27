@@ -270,7 +270,7 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102172.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34209.m3u8
 https://a1xs.vip/2000005
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="Tipi sprot",skai sprot epwan spanyol
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b
