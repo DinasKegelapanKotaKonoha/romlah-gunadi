@@ -800,7 +800,7 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://object.streamized.net/img/inews.png" group-title="berita faktual anget habis diangkat dari wajan",sindonyus tipi
+#EXTINF:-1 tvg-id="Sindonews.id" tvg-name="" tvg-logo="https://id.wikipedia.org/wiki/Berkas:SindoNewsTV_2023.png" group-title="berita faktual anget habis diangkat dari wajan",sindonyus tipi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42aeb04e3c6349088ca38e5b655c9716:5796cdcd2f43b1efa378f8845e4a2472
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
