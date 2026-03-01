@@ -1,0 +1,26 @@
+#EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://www.open-epg.com/files/indonesia1.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="24" billed-msg="Ini cuma testing, all channel didapat dari berbagai source dan dicari secara manual. Update berkala jika ada channel menarik ;)"
+
+-- Warning --
+
+Walawe breeeee...
+Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicari secara mamual dan tidak berbayar.
+Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicari secara mamual dan tidak berbayar.
+Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicari secara mamual dan tidak berbayar.
+Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicari secara mamual dan tidak berbayar.
+Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicari secara mamual dan tidak berbayar.
+
+Ini hanyalah untuk test. Tidak untuk disalahgunakan.
+
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Digital kah? gatau gweh",ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/indosiar.png" group-title="Digital kah? gatau gweh",indosari v+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/index.mpd
