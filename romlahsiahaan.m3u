@@ -656,18 +656,21 @@ https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fub
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 https://skygo.streamized.net/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
 
 #EXTINF:-1 tvg-id="20.it" group-title="Tipi sprot" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9fxDqIc44GJjXQ93g6xjg1eAkwjIhAc_onw&s", psn 2 chernobyl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 https://skygo.streamized.net/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 
 #EXTINF:-1 tvg-id="20.it" group-title="Tipi sprot" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9fxDqIc44GJjXQ93g6xjg1eAkwjIhAc_onw&s", psn 3 svoloch
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
 https://skygo.streamized.net/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9fxDqIc44GJjXQ93g6xjg1eAkwjIhAc_onw&s"" group-title="Tipi sprot", psn 4 suka blyat
