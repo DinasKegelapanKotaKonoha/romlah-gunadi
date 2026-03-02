@@ -28,7 +28,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc7803e87d650f743efdaa2c6c0e1595:70eebaaf2033267161128109989c73a0
 #EXTINF:-1 tvg-id="Prambors" tvg-name="Prambors" tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QW1lcmljYS9FZG1vbnRvbg%3D%3D&date=20260301&channel_id=411985" tvg-logo="https://props.id/portfolio/prambors-app-user-engagement-grows-14x-by-enabling-props-push-notifications-service/" group-title="Test",Prambors TV1
 https://cdn12jtedge.indihometv.com/atm/mpd-vo/pramborstv/manifest.mpd
 
