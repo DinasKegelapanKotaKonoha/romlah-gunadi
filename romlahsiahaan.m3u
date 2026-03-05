@@ -299,17 +299,17 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 # Sky Sports #
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Tipi sprot",skai sprot main event
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="skai sprot",skai sprot main event
 https://7pal.short.gy/SkSpMainE
 
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="Tipi sprot",skai sprot action
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="skai sprot",skai sprot action
 https://7pal.short.gy/ssportsat
 
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Tipi sprot",skai sprot mix campur aduk
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="skai sprot",skai sprot mix campur aduk
 https://a1xs.vip/2000008
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="Tipi sprot",skai sprot epwan enggres
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="skai sprot",skai sprot epwan enggres
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29024.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/883275.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102172.m3u8
@@ -317,33 +317,76 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34209.m3u8
 https://a1xs.vip/2000005
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="Tipi sprot",skai sprot epwan jerman
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="skai sprot",skai sprot epwan jerman
 http://ott.premium-tv.org:80/live/wonton57/874893/89667.m3u8
 
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Test",Sky Sports F!
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/97864.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="Tipi sprot",skai sprot motogepeh sepanyol
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="skai sprot",skai sprot motogepeh sepanyol
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Tipi sprot",skai sprot liga enggres premier
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="skai sprot",skai sprot liga enggres premier
 https://a1xs.vip/2000002
 
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="Tipi sprot",skai sprot liga enggres premier new zealand
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="skai sprot",skai sprot liga enggres premier new zealand
 https://a1xs.vip/700008
 
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport PL DE" tvg-logo="https://i.ibb.co/27BS63GG/Sky-Sports-PL.png" group-title="Tipi sprot",skai sprot liga enggres premier jerman
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport PL DE" tvg-logo="https://i.ibb.co/27BS63GG/Sky-Sports-PL.png" group-title="skai sprot",skai sprot liga enggres premier jerman
 https://a1xs.vip/120004
 
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://i.ibb.co/pv74RgXM/Sky-Sport-Bundesliga.png" group-title="Tipi sprot",skai sprot bundesliga jerman
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://i.ibb.co/pv74RgXM/Sky-Sport-Bundesliga.png" group-title="skai sprot",skai sprot bundesliga jerman
 https://a1xs.vip/120002
 
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event FHD" tvg-logo="https://i.ibb.co/DfFMRh8C/Sky-Sport-Top-Event.png" group-title="Tipi sprot",skai sprot top event jerman
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event FHD" tvg-logo="https://i.ibb.co/DfFMRh8C/Sky-Sport-Top-Event.png" group-title="skai sprot",skai sprot top event jerman
 https://a1xs.vip/120003
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false"skai sprot 1 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122505.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false"skai sprot 2 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122504.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 3 NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false"skai sprot 3 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122503.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 4 NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false"skai sprot 4 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122502.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 5 NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false"skai sprot 5 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122501.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 6 NZ" tvg-id="SKY.Sport.6.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false"skai sprot 6 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122500.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 7 NZ" tvg-id="SKY.Sport.7.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false"skai sprot 7 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122499.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 8 NZ" tvg-id="SKY.Sport.8.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false"skai sprot liga enggres premier new zealend 1
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122498.m3u8
+
+#EXTINF:-1  tvg-name="SKY Sport 8 NZ" tvg-id="SKY.Sport.8.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot",skai sprot liga enggres premier new zealand 2
+https://a1xs.vip/700008
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 9 NZ" tvg-id="SKY.Sport.9.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false"skai sprot 9 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122497.m3u8
 
 -- Astro Sports --
 
