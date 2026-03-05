@@ -30,10 +30,15 @@ https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Test",Sky Sports Mix
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/19053.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Test",Sky Sports F1
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/97864.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Test",Sky Sports F!
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/97864.m3u8
+#EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports" radio="false",SKY Sport 1 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122505.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports" radio="false",SKY Sport 1 NZ
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122504.m3u8
