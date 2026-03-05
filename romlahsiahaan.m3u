@@ -342,50 +342,50 @@ https://a1xs.vip/120003
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false",skai sprot 1 NZ
+#EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 1 NZ
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122505.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false",skai sprot 2 NZ
+#EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 2 NZ
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122504.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1  tvg-name="SKY Sport 3 NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false",skai sprot 3 NZ
+#EXTINF:-1  tvg-name="SKY Sport 3 NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 3 NZ
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122503.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1  tvg-name="SKY Sport 4 NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false",skai sprot 4 NZ
+#EXTINF:-1  tvg-name="SKY Sport 4 NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 4 NZ
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122502.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1  tvg-name="SKY Sport 5 NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false",skai sprot 5 NZ
+#EXTINF:-1  tvg-name="SKY Sport 5 NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 5 NZ
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122501.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1  tvg-name="SKY Sport 6 NZ" tvg-id="SKY.Sport.6.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false",skai sprot 6 NZ
+#EXTINF:-1  tvg-name="SKY Sport 6 NZ" tvg-id="SKY.Sport.6.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 6 NZ
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122500.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1  tvg-name="SKY Sport 7 NZ" tvg-id="SKY.Sport.7.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false",skai sprot 7 NZ
+#EXTINF:-1  tvg-name="SKY Sport 7 NZ" tvg-id="SKY.Sport.7.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 7 NZ
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122499.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1  tvg-name="SKY Sport 8 NZ" tvg-id="SKY.Sport.8.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false",skai sprot liga enggres premier new zealend 1
+#EXTINF:-1  tvg-name="SKY Sport 8 NZ" tvg-id="SKY.Sport.8.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot liga enggres premier new zealend 1
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122498.m3u8
 
-#EXTINF:-1  tvg-name="SKY Sport 8 NZ" tvg-id="SKY.Sport.8.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot",skai sprot liga enggres premier new zealand 2
+#EXTINF:-1  tvg-name="SKY Sport 8 NZ" tvg-id="SKY.Sport.8.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot liga enggres premier new zealand 2
 https://a1xs.vip/700008
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1  tvg-name="SKY Sport 9 NZ" tvg-id="SKY.Sport.9.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot" radio="false",skai sprot 9 NZ
+#EXTINF:-1  tvg-name="SKY Sport 9 NZ" tvg-id="SKY.Sport.9.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 9 NZ
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122497.m3u8
 
 -- Astro Sports --
