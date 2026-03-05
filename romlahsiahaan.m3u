@@ -328,7 +328,7 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="skai sprot",skai sprot liga enggres premier
 https://a1xs.vip/2000002
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sky_Sports_%28Mexico%29" group-title="skai sprot",skai sprot laliga
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/04/23/20250423022300132210_61.png" group-title="skai sprot",skai sprot laliga
 http://45.90.106.85:9090/281171_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pv74RgXM/Sky-Sport-Bundesliga.png" group-title="skai sprot",skai sprot bundesliga
@@ -387,6 +387,12 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122497.m3u8
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://object.streamized.net/img/astropremierleague.png" group-title="Tipi sprot",astro liga enggres
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+##https://ast.livecricketsl.live/proxy/sg.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+http://208.87.242.55/livehttpplay?channel_id=13302
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34535
+http://107.175.220.4:11799/go_assp1/playlist.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29151.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29151.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1159.m3u8
@@ -394,6 +400,13 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1159.m3u8
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-logo="https://object.streamized.net/img/astropremierleague2.png" group-title="Tipi sprot",astro liga enggres 2
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
+##https://ast.livecricketsl.live/proxy/sg.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
+http://208.87.242.55/livehttpplay?channel_id=13303
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34534
+http://107.175.220.4:11799/go_assp2/playlist.m3u8
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp2
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1158.m3u8
 
