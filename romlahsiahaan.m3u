@@ -328,23 +328,11 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="skai sprot",skai sprot liga enggres premier
 https://a1xs.vip/2000002
 
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="skai sprot",skai sprot liga enggres premier new zealand
-https://a1xs.vip/700008
-
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sky_Sports_%28Mexico%29" group-title="skai sprot",skai sprot laliga
 http://45.90.106.85:9090/281171_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pv74RgXM/Sky-Sport-Bundesliga.png" group-title="skai sprot",skai sprot bundesliga
 http://104.194.8.54:9090/281188_.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport PL DE" tvg-logo="https://i.ibb.co/27BS63GG/Sky-Sports-PL.png" group-title="skai sprot",skai sprot liga enggres premier jerman
-https://a1xs.vip/120004
-
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://i.ibb.co/pv74RgXM/Sky-Sport-Bundesliga.png" group-title="skai sprot",skai sprot bundesliga jerman
-https://a1xs.vip/120002
-
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event FHD" tvg-logo="https://i.ibb.co/DfFMRh8C/Sky-Sport-Top-Event.png" group-title="skai sprot",skai sprot top event jerman
-https://a1xs.vip/120003
 
 #EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 1 NZ
 #EXT-X-VERSION:3
