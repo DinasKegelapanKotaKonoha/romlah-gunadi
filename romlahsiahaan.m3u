@@ -331,10 +331,10 @@ https://a1xs.vip/2000002
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="skai sprot",skai sprot liga enggres premier new zealand
 https://a1xs.vip/700008
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sky_Sports_%28Mexico%29" group-title="saki sprot",skai sprot laliga
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sky_Sports_%28Mexico%29" group-title="skai sprot",skai sprot laliga
 http://45.90.106.85:9090/281171_.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pv74RgXM/Sky-Sport-Bundesliga.png" group-title="BUDTV SPORTS",skai sprot bundesliga
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv74RgXM/Sky-Sport-Bundesliga.png" group-title="skai sprot",skai sprot bundesliga
 http://104.194.8.54:9090/281188_.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport PL DE" tvg-logo="https://i.ibb.co/27BS63GG/Sky-Sports-PL.png" group-title="skai sprot",skai sprot liga enggres premier jerman
@@ -425,6 +425,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="Tipi sprot",enbie tipi basket 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
+
 # Fox Sports #
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -497,7 +503,7 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="hhttps://object.streamized.net/img/tntsports.png" group-title="tnt sprot",tnt sprot 4
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="tnt sprot",tnt sprot 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -677,9 +683,6 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 http://104.238.222.251:9090/279422_.m3u8
 
 # LaLiga Only #
-
-#EXTINF:-1 tvg-logo="" group-title="BUDTV SPORTS",SKY La Liga
-http://45.90.106.85:9090/281171_.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="laliga",laliga tipi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
