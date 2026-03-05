@@ -672,12 +672,12 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="laliga",laliga 1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000#EXTINF:-1 tvg-id="LaLiga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="laliga", laliga 1
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/3308.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="laliga",laliga 2
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000#EXTINF:-1 tvg-id="LaLiga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="laliga", laliga 2
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/3309.m3u8
 
 # Other Sports Channel #
