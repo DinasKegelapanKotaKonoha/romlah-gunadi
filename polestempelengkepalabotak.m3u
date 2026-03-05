@@ -77,3 +77,12 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122498.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTINF:-1  tvg-name="SKY Sport 9 NZ" tvg-id="SKY.Sport.9.nz" tvg-logo=https://dash.streamized.net/img/skysports.png" group-title="Sky Sports" radio="false",SKY Sport 9 NZ
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122497.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Test",Liga Spanyol 1
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/3308.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Test",Liga Spanyol 2
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/3309.m3u8
