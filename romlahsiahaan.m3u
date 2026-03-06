@@ -865,16 +865,16 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9fxDqIc44GJjXQ93g6xjg1eAkwjIhAc_onw&s" group-title="Tipi sprot", psn 5 priviet
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: ziggo sprot FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="Tipi sprot: ziggo sprot 1
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: ziggo sprot FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="Tipi sprot", ziggo sprot 1
 https://a1xs.vip/140001
 
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: ziggo sprot 2 FHD" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png" group-title="Tipi sprot: ziggo sprot 2
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: ziggo sprot 2 FHD" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png" group-title="Tipi sprot", ziggo sprot 2
 https://a1xs.vip/140002
 
-#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: ziggo sprot 3 FHD" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png" group-title="Tipi sprot: ziggo sprot 3
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: ziggo sprot 3 FHD" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png" group-title="Tipi sprot", ziggo sprot 3
 https://a1xs.vip/140003
 
-#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: ziggo sprot 4 FHD" tvg-logo="https://i.ibb.co/tPJpwzqL/Ziggo-Sport4.png" group-title="Tipi sprot: ziggo sprot 4
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: ziggo sprot 4 FHD" tvg-logo="https://i.ibb.co/tPJpwzqL/Ziggo-Sport4.png" group-title="Tipi sprot", ziggo sprot 4
 https://a1xs.vip/140004
 
 #EXTINF:-1 tvg-chno="103" tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="tipi sprot",NBC Sports Bay Area
