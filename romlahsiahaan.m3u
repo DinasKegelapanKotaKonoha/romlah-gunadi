@@ -1010,13 +1010,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://id.wikipedia.org/wiki/Berkas:DW_%28TV%29_Logo_2012.png" group-title="berita faktual anget habis diangkat dari wajan",dw v+
 https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://id.wikipedia.org/wiki/Berkas:DW_%28TV%29_Logo_2012.png" group-title="berita faktual anget habis diangkat dari wajan",dw hade
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
-https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mediampd/FOXNewsHD.mpd
-
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="Inews" tvg-logo="https://object.streamized.net/img/inews.png" group-title="berita faktual anget habis diangkat dari wajan",ainyus tipi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
