@@ -43,29 +43,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w167611742_b344100_sle
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Digital kah? gatau gweh",ANTEPEH
-http://filex.me:8080/live/MAS101A/MAS101AABB/302206.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Digital kah? gatau gweh",antepeh v+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
-#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://object.streamized.net/img/trans7.png" group-title="Digital kah? gatau gweh",trans pitu indijomok audio mono walawe indihomok kikir bener dah
-https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_wuseetv.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee
-#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://object.streamized.net/img/transtv.png" group-title="Digital kah? gatau gweh",trans tipi indijomok audio sama-sama mono walawe indihomok pelit
-https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest_wuseetv.mpd
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Digital kah? gatau gweh",antepeh liga mamamia
+http://103.66.62.83:8000/play/a00r/index.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -77,12 +56,12 @@ http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
 #http://filex.me:8080/live/000003/000003/302264.m3u8
 #http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/indosiar.png" group-title="Digital kah? gatau gweh",indosari v+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/index.mpd
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/indosiar.png" group-title="Digital kah? gatau gweh",indosari liga tawur 2
+http://103.66.62.83:8000/play/a00o/index.m3u8
 
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -92,14 +71,20 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/in
 #EXTINF:-1 tvg-id="SCTV" tvg-logo="https://object.streamized.net/img/sctv.png" group-title="Digital kah? gatau gweh",essetepeh liga enggres
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1067262.m3u8
 
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://object.streamized.net/img/sctv.png" group-title="Digital kah? gatau gweh",essetepeh liga enggres 2
+http://103.66.62.83:8000/play/a00o/index.m3u8
+
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://object.streamized.net/img/rcti.png" group-title="Digital kah? gatau gweh",ersetei eko mastah sep
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/34418.m3u8
-#http://103.146.197.250:25461/live/daeng/tmgrh/10.m3u8
-#http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
+http://103.66.62.83:8000/play/a00v/index.m3u8
 
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -107,15 +92,19 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/34418.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MNC TV" tvg-logo="https://object.streamized.net/img/mnctv.png" group-title="Digital kah? gatau gweh",emensitipi upin dan Ipin inilah dia
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/149815.m3u8
+http://103.66.62.83:8000/play/a00w/index.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://object.streamized.net/img/gtv.png" group-title="Digital kah? gatau gweh",jetivi spogob famili seratus kenapa irpan hakim lagi yang jadi host dah
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/7657.m3u8
-http://103.146.197.250:25461/live/daeng/tmgrh/13.m3u8
-#http://filex.me:8080/live/000003/000003/302247.m3u8
+http://103.66.62.83:8000/play/a00y/index.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://object.streamized.net/img/inews.png" group-title="Digital kah? gatau gweh",jetivi spogob famili seratus kenapa irpan hakim lagi yang jadi host dah
+http://103.66.62.83:8000/play/a00d/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -123,19 +112,39 @@ http://103.146.197.250:25461/live/daeng/tmgrh/13.m3u8
 #EXTINF:-1 tvg-id="RTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object.streamized.net/img/rtv.png" group-title="Digital kah? gatau gweh",ertipi
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oR8KunwWb8Q/mqdefault.jpg" group-title="Digital kah? gatau gweh",sinpo tipi
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
-#https://spacetv.my.id/index.m3u8?id=19046&type=hls
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Moji" tvg-name="Moji" tvg-logo="https://object.streamized.net/img/moji.png" group-title="Digital kah? gatau gweh",moji tipi proliga tranvision digital
+#EXTINF:-1 tvg-id="Moji" tvg-name="Moji" tvg-logo="https://object.streamized.net/img/moji.png" group-title="Digital kah? gatau gweh",moji tipi proliga
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
+http://103.66.62.83:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/antv.png" group-title="non-digital",antepeh v+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://object.streamized.net/img/trans7.png" group-title="non-digital",trans pitu indijomok audio mono walawe indihomok kikir bener dah
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_wuseetv.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://object.streamized.net/img/transtv.png" group-title="non-digital",trans tipi indijomok audio sama-sama mono walawe indihomok pelit
+https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest_wuseetv.mpd
+
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/indosiar.png" group-title="non-digital",indosari v+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/index.mpd
 
 -- TVRI --
 
@@ -512,6 +521,26 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="tnt sprot",tnt sprot 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://7pal.short.gy/tntspts5
+
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="tnt sprot",tnt sprot 1 (alternatif)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="tnt sprot",tnt sprot 2 (alternatif)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://7pal.short.gy/tntspts2
+
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="tnt sprot",tnt sprot 3 (alternatif)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://7pal.short.gy/tntspts3
+
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="tnt sprot",tnt sprot 4 (alternatif)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://7pal.short.gy/tntspts4
+
 # SPOTV #
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -775,8 +804,19 @@ http://202.169.224.202:8800/udp/239.9.1.10:1234
 #EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="Tipi sprot",tipi juara 3
 http://202.169.224.202:8800/udp/239.9.1.11:1234
 
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v1.png" tvg-id="24.7.Dummy.us" group-title="Tipi sprot",fubo sprot network (LGTV US)
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/fubosportsnetwork.avif" tvg-id="24.7.Dummy.us" group-title="Tipi sprot",fubo sprot network (LGTV US)
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1358&wurl_name=FuboSportsNetwork&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/fubosportsnetwork.avif" group-title="Tipi sprot",fubo sprot network 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/fubosportsnetwork.avif" group-title="Tipi sprot",fubo sprot network 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 #EXTINF:-1 tvg-id="20.it" group-title="Tipi sprot" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9fxDqIc44GJjXQ93g6xjg1eAkwjIhAc_onw&s", psn 1 tripaloski
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -804,6 +844,18 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9fxDqIc44GJjXQ93g6xjg1eAkwjIhAc_onw&s" group-title="Tipi sprot", psn 5 priviet
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: ziggo sprot FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="Tipi sprot: ziggo sprot 1
+https://a1xs.vip/140001
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: ziggo sprot 2 FHD" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png" group-title="Tipi sprot: ziggo sprot 2
+https://a1xs.vip/140002
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: ziggo sprot 3 FHD" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png" group-title="Tipi sprot: ziggo sprot 3
+https://a1xs.vip/140003
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: ziggo sprot 4 FHD" tvg-logo="https://i.ibb.co/tPJpwzqL/Ziggo-Sport4.png" group-title="Tipi sprot: ziggo sprot 4
+https://a1xs.vip/140004
 
 #EXTINF:-1 tvg-chno="103" tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="tipi sprot",NBC Sports Bay Area
 http://mytvstream.net:8080/live/bn80NG/909467/9900.m3u8
@@ -983,3 +1035,18 @@ https://flv.intechmedia.net/live/ch109.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97ff88352c574038b70e09642a90feec:66c062a920329c52fb446fac728c90d7
 https://cdn10jtedge.indihometv.com/atm/mpd-vo/pramborstv/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="158964" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510620'&EntityType='Item'&EntityId='158964'&Width=193&Height=187" group-title="musikkkk",NOW 70s
+https://tglmp03.akamaized.net/out/v1/f904e7d47bd245efb58c55581e5acf71/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="158965" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510630'&EntityType='Item'&EntityId='158965'&Width=193&Height=187" group-title="musikkkk",NOW 80s
+https://tglmp02.akamaized.net/out/v1/e9318eedbe1847f8924a3fcfb1b93648/manifest.mpd
+
+#EXTINF:-1 tvg-id="Now90s00s.uk@Poland" tvg-logo="https://images.pluto.tv/channels/6490254fd2c47c00083a5743/colorLogoPNG.png" group-title="musikkkk",NOW 90s & 00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187" group-title="musikkkk",NOW Rock
+https://tglmp04.akamaized.net/out/v1/7c6aa1207e91478dbbce70d35e40b61b/manifest.mpd
