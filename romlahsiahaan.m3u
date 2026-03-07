@@ -357,6 +357,11 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="skai sprot",skai sprot liga enggres premier
 https://a1xs.vip/2000002
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="skai sprot",skai sprot liga enggres premier 2
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/883272.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/04/23/20250423022300132210_61.png" group-title="skai sprot",skai sprot laliga
 http://45.90.106.85:9090/281171_.m3u8
 
@@ -603,9 +608,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 # Bein Sports #
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/featuredImage.jpg" group-title="Tipi sprot",bein sprot xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
@@ -647,7 +649,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.id" tvg-name="beIN Sports 5" tvg-logo="https://object.streamized.net/img/beinsports5.png" group-title="Tipi sprot",bein sprot 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 group-title="Tipi sprot" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",bein sprot 1 negara kebalik
+#EXTINF:-1 group-title="Tipi sprot" tvg-id="" tvg-logo="https://object.streamized.net/img/beinsports.png",bein sprot 1 australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -655,7 +657,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 group-title="Tipi sprot" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",bein sprot 2 negara kebalik
+#EXTINF:-1 group-title="Tipi sprot" tvg-id="" tvg-logo="https://object.streamized.net/img/beinsports2.png",bein sprot 2 australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -663,7 +665,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 group-title="Tipi sprot" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",bein sprot 3 negara kebalik
+#EXTINF:-1 group-title="Tipi sprot" tvg-id="" tvg-logo="https://object.streamized.net/img/beinsports3.png",bein sprot 3 australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -672,59 +674,68 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#EXTINF:-1 group-title="Tipi sprot" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", bein sprot kroisanggggg 1
+#EXTINF:-1 group-title="Tipi sprot" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", bein sprot prancis 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+#https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
-#EXTINF:-1 group-title="Tipi sprot" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", bein sprot kroisanggggg 2
+#EXTINF:-1 group-title="Tipi sprot" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", bein sprot prancis 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+#https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
-#EXTINF:-1 group-title="Tipi sprot" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", bein sprot kroisanggggg 3
+#EXTINF:-1 group-title="Tipi sprot" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", bein sprot prancis 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+#https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="" group-title="Tipi sprot" ,bein sprot MAX 5 kroisanggggg
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_beIN_SPORTS_MAX.png" group-title="Tipi sprot" ,bein sprot max 5 prancis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="" group-title="Tipi sprot" ,bein sprot MAX 6 kroisanggggg
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_beIN_SPORTS_MAX.png" group-title="Tipi sprot" ,bein sprot max 6 prancis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="" group-title="Tipi sprot" ,bein sprot MAX 7 kroisanggggg
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_beIN_SPORTS_MAX.png" group-title="Tipi sprot" ,bein sprot max 7 prancis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="" group-title="Tipi sprot" ,bein sprot MAX 8 kroisanggggg
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_beIN_SPORTS_MAX.png" group-title="Tipi sprot" ,bein sprot max 8 prancis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="" group-title="Tipi sprot" ,bein sprot MAX 9 kroisanggggg
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_beIN_SPORTS_MAX.png" group-title="Tipi sprot" ,bein sprot max 9 prancis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="" group-title="Tipi sprot" ,bein sport MAX 10 kroisanggggg
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_beIN_SPORTS_MAX.png" group-title="Tipi sprot" ,bein sport max 10 prancis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:BeIN_Sports_En_Espa%C3%B1ol.pngg" group-title="Tipi sprot",bein sprot spanyol
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/beinsports.png" group-title="BUDTV SPORTS",bein sports mamarika
+http://104.194.8.54:9090/161161_.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/BeIN_Sports_Xtra" group-title="Tipi sprot",bein sprot xtra mamarika
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Tipi sprot",bein sprot spanyol
 http://104.238.222.251:9090/279422_.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Tipi sprot",bein sprot xtra spanyol
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 # LaLiga Only #
 
