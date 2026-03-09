@@ -145,14 +145,14 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
 #EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://object.streamized.net/img/trans7.png" group-title="non-digital",trans pitu indijomok audio mono walawe indihomok kikir bener dah
-https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_wuseetv.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee
 #EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://object.streamized.net/img/transtv.png" group-title="non-digital",trans tipi indijomok audio sama-sama mono walawe indihomok pelit
-https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest_wuseetv.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/indosiar.png" group-title="non-digital",indosari v+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1054,7 +1054,7 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 tvg-id="Sindonews.id" tvg-name="sindonews" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" group-title="berita faktual anget habis diangkat dari wajan",sindonyus tipi )widevine)
+#EXTINF:-1 tvg-id="Sindonews.id" tvg-name="sindonews" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" group-title="berita faktual anget habis diangkat dari wajan",sindonyus tipi (widevine)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=5&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
