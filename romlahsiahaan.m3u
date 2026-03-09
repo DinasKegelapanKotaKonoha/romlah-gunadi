@@ -1057,7 +1057,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index
 
 #EXTINF:-1 tvg-id="Sindonews.id" tvg-name="sindonews" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" group-title="berita faktual anget habis diangkat dari wajan",sindonyus tipi (widevine)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=5&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://license-izzidrm.streamized.net/
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
