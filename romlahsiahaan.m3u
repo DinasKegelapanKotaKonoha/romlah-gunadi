@@ -22,33 +22,33 @@ Semua link dari playlist ini diambil langsung dari source provider utama, juga d
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="web stream",ersetei
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/rcti.png" group-title="web stream",ersetei
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="web stream",jetivi
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/gtv.png" group-title="web stream",jetivi
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="web stream", emensitipi
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/mnctv.png" group-title="web stream", emensitipi
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="web stream",ainyus tipi
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/inews.png" group-title="web stream",ainyus tipi
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="web stream",trans tipih
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/transtv.png" group-title="web stream",trans tipih
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://20.detik.com/"
-https://video.detik.com/transtv/smil:transtv.smil/media_w534887430_b744100_sleng_113478.ts
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="web stream",trans tujuh
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/trans7.png" group-title="web stream",trans tujuh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://www.transtv.co.id/"
-https://video.detik.com/trans7/smil:trans7.smil/media_w808115300_b744100_sleng_226207.ts
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
@@ -321,7 +321,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 
 # Vision+ Sports #
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/68y2OmC.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Tipi sprot",channel bola pision plus-plus
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/soccerchannel.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Tipi sprot",channel bola pision plus-plus
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -506,7 +506,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/nba/manifest.mpd
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://www.fubo.tv/welcome/channel/nba-tv" group-title="Tipi sprot",enbie tipi basket 2
+#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://hallpassnetwork.com/experience/" group-title="Tipi sprot",enbie tipi basket 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
@@ -994,7 +994,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png" group-title="kartun uhuy",kids tipi
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://object.streamized.net/img/kidstv.png" group-title="kartun uhuy",kids tipi
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1 tvg-logo="https://object.streamized.net/img/mentaritv.png" group-title="kartun uhuy",mentari tepeh
@@ -1008,7 +1008,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #EXTINF:-1 tvg-logo="https://object.streamized.net/img/vtv.png" group-title="kartun uhuy",vitipi tipi kartun gak laku ada wm youtv walawe
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-id="https://object.streamized.net/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object.streamized.net/img/vtv.png" group-title="kartun uhuy",vitipi no wm butuh internet nasa
+#EXTINF:-1 tvg-id="https://object.streamized.net/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="kartun uhuy",vitipi no wm butuh internet nasa
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 http://202.169.224.202:8800/udp/239.9.1.39:1234
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -1048,16 +1048,16 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCI7DQRt-B39F8y2Tb6IJr0_0uAhEE-4LjiH_2PQ5E0OxXRTCfVUhwNg7pq_d3sKigz8GaIQGuKhxI7K7Ki0BM12y8SYxRjjL_1NtjGBXfPeSio2b8SJHye9JZ2vN-BhO1CjKil2Ft0ggAEq8ZYOflAL1U704t3aymI9aaLxzgzfLuU4rA5bklqR0IxNwa/s700/NICKELODEON.png" group-title="kartun uhuy",nickelodeon burik
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="kartun uhuy",nickelodeon sawadikap
+#EXTINF:-1 tvg-id="" tvg-logo="https://object.streamized.net/img/nicklodeon.png" group-title="kartun uhuy",nickelodeon sawadikap
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
-#EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="kartun uhuy",nicktoons nonstop spogob
+#EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://www.deviantart.com/gamer8371/art/Nicktoons-1991-wordmark-white-975519236" group-title="kartun uhuy",nicktoons nonstop spogob
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://41.205.93.154/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="kartun uhuy",nicktoons blyat
+#EXTINF:-1 tvg-logo="https://www.deviantart.com/gamer8371/art/Nicktoons-1991-wordmark-white-975519236" group-title="kartun uhuy",nicktoons blyat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
@@ -1078,7 +1078,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=44003e0bf3cc4cfa8a35cead51e34d42:a46e0bee874435aeb96fcac1177275a1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://id.wikipedia.org/wiki/Berkas:DW_%28TV%29_Logo_2012.png" group-title="berita faktual anget habis diangkat dari wajan",dw v+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://www.visionplus.id/images/repository/197/514197-LOGO-m.png" group-title="berita faktual anget habis diangkat dari wajan",dw v+
 https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="Inews" tvg-logo="https://object.streamized.net/img/inews.png" group-title="berita faktual anget habis diangkat dari wajan",ainyus tipi 
