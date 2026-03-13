@@ -606,7 +606,7 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34209.m3u8
 https://a1xs.vip/2000005
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="skai sprot",skai sprot epwan jerman
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="skai sprot",skai sprot epwan spanyol
 http://ott.premium-tv.org:80/live/wonton57/874893/89667.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -623,10 +623,10 @@ https://a1xs.vip/2000002
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/883272.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/04/23/20250423022300132210_61.png" group-title="skai sprot",skai sprot laliga
-http://45.90.106.85:9090/281171_.m3u8
+#http://45.90.106.85:9090/281171_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pv74RgXM/Sky-Sport-Bundesliga.png" group-title="skai sprot",skai sprot bundesliga
-http://104.194.8.54:9090/281188_.m3u8
+#http://104.194.8.54:9090/281188_.m3u8
 
 #EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="skai sprot", skai sprot 1 NZ
 #EXT-X-VERSION:3
@@ -1206,13 +1206,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTINF:-1 tvg-logo="https://object.streamized.net/img/vtv.png" group-title="kartun uhuy",vitipi tipi kartun gak laku ada wm youtv walawe
+#EXTINF:-1 tvg-id="VTV" tvg-logo="https://object.streamized.net/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="kartun uhuy",vitipi tipi kartun gak laku ada wm youtv walawe
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-id="https://object.streamized.net/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="kartun uhuy",vitipi no wm butuh internet nasa
+#EXTINF:-1 tvg-id="VTV" tvg-logo="https://object.streamized.net/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="kartun uhuy",vitipi no wm butuh internet nasa
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 http://202.169.224.202:8800/udp/239.9.1.39:1234
-https://flv.intechmedia.net/live/ch107.m3u8
+
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://object.streamized.net/img/cartoonnetwork.png" group-title="kartun uhuy" tvg-id="Cartoon Network", cartoon network indihomok
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
