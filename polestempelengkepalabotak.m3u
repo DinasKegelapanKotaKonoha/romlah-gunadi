@@ -13,7 +13,7 @@ Ini hanyalah untuk test. Tidak untuk disalahgunakan.
 
 #EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="film dan apalah" tvg-logo="https://object.streamized.net/img/hbofamily.png", hbo family (alternatif)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.drm.streamized.net/keyManager/cenc/Pollygon.do?enc=false
+#KODIPROP:inputstream.adaptive.license_key=ff67b52d6c5e4a769f8aba596633b821:fbccc3d9c3a5da07af6469a007defe88
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://watch.streamized.net/
 https://tokenized-ottbridge-prod.streamized.net/atm/mpd-vo/hbo/manifest.mpd
