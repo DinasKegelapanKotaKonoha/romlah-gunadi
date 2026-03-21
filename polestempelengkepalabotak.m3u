@@ -16,9 +16,9 @@ Ini hanyalah untuk test. Tidak untuk disalahgunakan.
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd?start=1773572700&end=1773578700
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4dfb5caacbcd3e64c8319a10f2bf2f012050c4c51e082999d9a72ab02c360dee.jpg" group-title="Vision+ VOD", Shrek 2
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/112/352112-BACKGROUND-m.jpg" group-title="Vision+ VOD", Shrek 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21fb01816c7b48cd83e84063f2f4d230:21f7b202e62808eb53de68b4b6c1cab4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
