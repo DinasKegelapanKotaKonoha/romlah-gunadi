@@ -25,13 +25,6 @@ https://d2tolhxlph2dpt.cloudfront.net/out/v1/4f42a5d9840d499d9ca130ad71cbd276/7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tolhxlph2dpt.cloudfront.net/out/v1/c9fb5f5167e44548adb1f92ad17abf46/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/805/580805-BACKGROUND-m.jpg" group-title="Vision+ VOD", Minions: The Rise Of Gru (Studio Universal)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/642/355642-BACKGROUND-m.jpg" group-title="Vision+ VOD", Shrek
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41025d28bb2b45f0bc3c22cc1e35790a:e0417542b417b0b4a25a95fa2d61b8e8
@@ -45,13 +38,6 @@ https://d2tolhxlph2dpt.cloudfront.net/out/v1/02f67235c733499b947a8586b93757fb/7b
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tolhxlph2dpt.cloudfront.net/out/v1/963819bbcd744b6d8e23fd976b5a2fa5/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/600/518600-BACKGROUND-m.jpg" group-title="Vision+ VOD", Shrek The Third
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd?start=1774053300&end=1774059900
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="Music Test", Musik 1
 #EXT-X-VERSION:3
