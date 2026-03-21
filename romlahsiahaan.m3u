@@ -629,12 +629,19 @@ https://d2tolhxlph2dpt.cloudfront.net/out/v1/4f42a5d9840d499d9ca130ad71cbd276/7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tolhxlph2dpt.cloudfront.net/out/v1/c9fb5f5167e44548adb1f92ad17abf46/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/642/355642-BACKGROUND-m.jpg" group-title="VOD", Shrek
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/112/352112-BACKGROUND-m.jpg" group-title="VOD", Shrek
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41025d28bb2b45f0bc3c22cc1e35790a:e0417542b417b0b4a25a95fa2d61b8e8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tolhxlph2dpt.cloudfront.net/out/v1/02f67235c733499b947a8586b93757fb/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/112/352112-BACKGROUND-m.jpg" group-title="Vision+ VOD", Shrek 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21fb01816c7b48cd83e84063f2f4d230:21f7b202e62808eb53de68b4b6c1cab4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/963819bbcd744b6d8e23fd976b5a2fa5/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/755/616755-BACKGROUND-m.jpg" group-title="VOD", Kung Fu Panda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
