@@ -42,7 +42,8 @@ https://d2tolhxlph2dpt.cloudfront.net/out/v1/963819bbcd744b6d8e23fd976b5a2fa5/7b
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_hdpi.webp" group-title="Test", MAXKIDS
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.indihometv.com/drmgateway/v1/drm/widevine/
 https://cdn10jtedge.indihometv.com/atm/mpd-vo/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="Music Test", Musik 1
