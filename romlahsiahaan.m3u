@@ -34,10 +34,16 @@ https://trakteer.id/FormerMarsPresident/tip
 
 -- Indonesia (Digital) --
 
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Indonesia (Digital)", ANTV
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Indonesia (Digital)", ANTV
 http://103.66.62.83:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Indonesia (Digital)", ANTV (Alternative)
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7621.m3u8
+http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -1220,6 +1226,22 @@ https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
 #EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-logo="https://object.streamized.net/img/beinsports3.png" group-title="beIN Sports", beIN Sports 3 (Asia-Pacific/Thailand)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-logo="https://object.streamized.net/img/beinsports.png" group-title="beIN Sports", beIN Sports 1 (Asia-Pacific/Malaysia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34446.m3u8
+
+#EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-logo="https://object.streamized.net/img/beinsports2.png" group-title="beIN Sports", beIN Sports 2 (Asia-Pacific/Malaysia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4304.m3u8
+
+#EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-logo="https://object.streamized.net/img/beinsports3.png" group-title="beIN Sports", beIN Sports 3 (Asia-Pacific/Malaysia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4303.m3u8
 
 #EXTINF:-1 group-title="beIN Sports" tvg-id="" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 1 (Australia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
