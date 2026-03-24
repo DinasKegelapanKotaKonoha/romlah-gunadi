@@ -1319,15 +1319,24 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/70.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/53.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/71.m3u8
 
-#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSportsEnglish1.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 1 (English)
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSportsEnglish1.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 1 (MENA)
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/82.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/81.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/32900.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/32972.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/82.m3u8
 
-#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSportsEnglish2.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 2 (English)
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSportsEnglish2.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 2 (MENA)
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/64.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/83.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/32899.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/32971.m3u8
 
 #EXTINF:-1 tvg-logo="https://object.streamized.net/img/beinsports.png" group-title="beIN Sports" radio="false",beIN Sports 1 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1363,13 +1372,6 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 #EXTINF:-1 tvg-logo="https://object.streamized.net/img/beinsports3.png" group-title="beIN Sports" radio="false",beIN Sports 3 (France/Alternative)
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/226.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://object.streamized.net/img/beinsports.png" group-title="beIN Sports", beIN Sports MAX 4 (France)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m8E22NbIYLYuCtrAA+TT2Q","k":"rlyanlBKT+JzdgyA5/4erg"},{"kty":"oct","kid":"Aq2Nj/2AtQVneW5pS3opJw","k":"B86CeVN+0m/oMbU0OqVZaQ"},{"kty":"oct","kid":"0RQPC4dyMpf8Gjgg2YlTfw","k":"N8eLX7vZcha0gT4TWrLB6g"},{"kty":"oct","kid":"ttC2IXxwsPcFACoHB3GwhA","k":"dGwC0eaIT+LkQRYkugVVKA"}]}
-#https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://object.streamized.net/img/beinsports.png" group-title="beIN Sports", beIN Sports MAX 5 (France)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
