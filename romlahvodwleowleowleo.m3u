@@ -1,0 +1,63 @@
+#EXTM3U
+
+-- Movies --
+
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/567/679567-BACKGROUND-m.jpg" group-title="VOD", Madagascar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fee7f0e6bf74870876c81dbcedd643b:1a71df940772b8b8e220f0c14c74894c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/4f42a5d9840d499d9ca130ad71cbd276/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/572/248572-BACKGROUND-m.jpg" group-title="VOD", The Spongebob Squarepants Movie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed1fcfc1cd304d3bb88073b8b87213a2:e497dced5dd5c2904d832b53e0de2536
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/c9fb5f5167e44548adb1f92ad17abf46/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/112/352112-BACKGROUND-m.jpg" group-title="VOD", Shrek
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41025d28bb2b45f0bc3c22cc1e35790a:e0417542b417b0b4a25a95fa2d61b8e8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/02f67235c733499b947a8586b93757fb/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/112/352112-BACKGROUND-m.jpg" group-title="VOD", Shrek 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21fb01816c7b48cd83e84063f2f4d230:21f7b202e62808eb53de68b4b6c1cab4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/963819bbcd744b6d8e23fd976b5a2fa5/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/755/616755-BACKGROUND-m.jpg" group-title="VOD", Kung Fu Panda
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f226461bf87b4457bb56b9b75893da26:f33eaa0764051d21b8d3a9bb376d1d97
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/c72136909bb44f7ab203c4b37253a88c/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/718/187718-BACKGROUND-m.jpg" group-title="VOD", Yowis Ben
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d5b567b9179441d9c14762ab40b805b:ecee7dc7c7f85b87a8fd902f128ca219
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/4c34abee730d4691bff245efadd5f519/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/722/199722-BACKGROUND-m.jpg" group-title="VOD", Cek Toko Sebelah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b4767b1614e48298f72c25872d411fe:eebd6b4f98e7f12434c949dfd7bb3f9f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/0cbf4cb93156406da0af118d9e169fc4/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/401/424401-BACKGROUND-m.jpg" group-title="VOD", Rambo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c674487119a54f4cbb9776f179221442:74ae74f26879c0e0bcc0d02e1765eb14
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/7954adb8a8334f2babee763c2a28061f/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+-- Series --
+
+""COMING SOON!!!""
