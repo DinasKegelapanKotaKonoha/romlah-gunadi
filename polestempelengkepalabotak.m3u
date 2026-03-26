@@ -30,21 +30,21 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/2236.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29035.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/883276.m3u8
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbo.png", HBO
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbo.png", HBO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
 https://cdnjktbpid22.transvision.co.id/riutx01/dash/Hbob64/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbo.png", HBO
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbo.png", HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
 https://cdnjktbpid26.cubmu.com/riutx01/dash/Hbob64/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbo.png", HBO
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbo.png", HBO 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
