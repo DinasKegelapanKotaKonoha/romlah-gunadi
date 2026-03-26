@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg, https://i.mjh.nz/SamsungTVPlus/all.xml.gz" refresh="24" vod_library="https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u" billed-msg="All channel didapat dari berbagai source dan dicari secara manual. Update berkala jika ada channel menarik ;)"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://i.mjh.nz/SamsungTVPlus/all.xml.gz" refresh="24" vod_library="https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u" billed-msg="All channel didapat dari berbagai source dan dicari secara manual. Update berkala jika ada channel menarik ;)"
 
 -- Warning --
 
@@ -1012,10 +1012,13 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122497.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29151.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29151.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1159.m3u8
+https://a1xs.vip/1100030
 
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object.streamized.net/img/astro.png" group-title="Sports", Astro Premier League 2
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1158.m3u8
 https://a1xs.vip/1100031
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1571,17 +1574,6 @@ http://202.169.224.202:8800/udp/239.9.1.10:1234
 #KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://i.imgur.com/xVwVIj6.png" group-title="Sports", Champions TV 3
 http://202.169.224.202:8800/udp/239.9.1.11:1234
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.pinimg.com/736x/1a/a3/31/1aa331ed48c9ac45612850f604eb830c.jpg" group-title="Sports", Champions TV 5
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
-##https://ast.livecricketsl.live/proxy/sg.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1158.m3u8
-http://208.87.242.55/livehttpplay?channel_id=13303
-http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34534
-http://107.175.220.4:11799/go_assp2/playlist.m3u8
-http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp2
 
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-name="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports", CBS Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
