@@ -10,25 +10,3 @@ Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicar
 Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicari secara mamual dan tidak berbayar.
 
 Ini hanyalah untuk test. Tidak untuk disalahgunakan.
-
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia (Digital)", ANTV
-#EXT-X-VERSION:3
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=m3u8&play_token=XMOx1ovd3r
-
-#EXTINF:-1 tvg-id="RCTI.IPTV" tvg-name="RCTI" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="Indonesia (Digital)", RCTI
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.m3u8
-
-#EXTINF:-1 tvg-id="MNCTV.IPTV" tvg-name="MNCTV" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="Indonesia (Digital)", MNCTV
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058960&extension=m3u8&play_token=JTF719aZF0
-
-#EXTINF:-1 tvg-id="GTV.IPTV" tvg-name="GTV" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="Indonesia (Digital)", GTV
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=383014&extension=m3u8&play_token=I0D2ZK33qB
