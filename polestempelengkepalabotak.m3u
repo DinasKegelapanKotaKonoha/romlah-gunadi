@@ -11,3 +11,17 @@ Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicar
 
 Ini hanyalah untuk test. Tidak untuk disalahgunakan.
 
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.IPTV" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="Indonesia (Digital)", RCTI
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34322.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.IPTV" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="Indonesia (Digital)", MNCTV
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149819.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34326.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="GTV.IPTV" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="Indonesia (Digital)", GTV
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7657.m3u8
