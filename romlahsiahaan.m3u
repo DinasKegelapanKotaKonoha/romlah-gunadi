@@ -38,11 +38,6 @@ https://trakteer.id/FormerMarsPresident/tip
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia (Digital)", ANTV
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://103.66.62.83:8000/play/a00r/index.m3u8
-
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia (Digital)", ANTV (Alternative)
-#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7621.m3u8
 
@@ -53,8 +48,6 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7621.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia (Digital)", Indosiar
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1139211.m3u8
 http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
-#http://filex.me:8080/live/000003/000003/302264.m3u8
-#http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
