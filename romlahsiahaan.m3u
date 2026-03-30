@@ -97,10 +97,10 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/VHJhbnNUVg/manifest.mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia (IPTV)", Trans TV (alternative)
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia (IPTV)", Trans TV (Alternative)
 https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia (IPTV)", Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia (IPTV)", Indosiar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -108,7 +108,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/index.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia (IPTV)", Indosiar (Alternative)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia (IPTV)", Indosiar (Alternative)
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -637,7 +637,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://object-streamo.emonaja.com/img/tvn.png" group-title="Movies, Entertainment, Animation & Knowledge", TVN (Alternative/2)
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TVN/playlist.m3u8
 
@@ -713,9 +712,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-https://cdn10jtedge.indihometv.com/atm/DASH/maxstream/manifest_wuseetv.mpd
-https://cdngb196.indihometv.com/dass/134/maxstream/manifest_wuseetv.mpd
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -738,6 +734,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Max.Streak.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg" group-title="Movies, Entertainment, Animation & Knowledge", Max Streak
 https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e27444f671974cefbb5063444ff91ce7:aa4dbc164e4083486b74462b025c42d5
+#EXTINF:-1 tvg-id="Max.Kids.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg" group-title="Movies, Entertainment, Animation & Knowledge", Max Kids
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="Movies, Entertainment, Animation & Knowledge" tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://object-streamo.emonaja.com/img/animax.png", Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -793,7 +796,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="Movies, Entertainment, Animation & Knowledge" tvg-id="Cartoon Network", Cartoon Network (Alternative)
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
 
