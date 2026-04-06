@@ -1737,10 +1737,10 @@ http://opplextv.cyou:8080/nasir6160/nasir/233082
 #EXTINF:-1:-1 tvg-id="DAZN6.uk" tvg-name="DAZN 6" tvg-logo="https://i.imgur.com/CdbEpFC.png" group-title="DAZN", DAZN 6
 http://opplextv.cyou:8080/nasir6160/nasir/233084
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/960px-DAZN_logo.svg.png" group-title="SPORTS CHANNEL", DAZN 1 (Taiwan)
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/960px-DAZN_logo.svg.png" group-title="DAZN", DAZN 1 (Taiwan)
 rtmp://f13h.mine.nu/sat/tv731
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/960px-DAZN_logo.svg.png" group-title="SPORTS CHANNEL", DAZN 2 (Taiwan)
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/960px-DAZN_logo.svg.png" group-title="DAZN", DAZN 2 (Taiwan)
 rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 tvg-ID="dazn1.es" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="DAZN", DAZN 1 (Spain)
@@ -1800,16 +1800,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
-#EXTINF:-1 tvg-id="RDS.ca" tvg-name="RDS" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="ESPN Family", RDS
+#EXTINF:-1 tvg-id="RDS.ca" tvg-name="RDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/960px-RDS_logo.svg.png" group-title="ESPN Family", RDS
 http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/49019
 
-#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="RDS 2" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="ESPN Family", RDS 2
+#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="RDS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/960px-RDS_logo.svg.png" group-title="ESPN Family", RDS 2
 http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/49020
 
-#EXTINF:-1 tvg-id="RDSInfo .ca" tvg-name="RDS" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="ESPN Family", RDS Info
+#EXTINF:-1 tvg-id="RDSInfo .ca" tvg-name="RDS" tvg-logo="https://i.imgur.com/VC3c3WY.png" group-title="ESPN Family", RDS Info
 http://opplextv.cyou:8080/nasir6160/nasir/349004
 
-#EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-name="ESPN8: The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="ESPN Family", TSN The Ocho
+#EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="ESPN Family", TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="ESPN Family", ESPN News (United States)
