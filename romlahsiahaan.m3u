@@ -536,9 +536,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/in
 
 #EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITS Movies" tvg-logo="https://object-streamo.emonaja.com/img/hitsmovies.png" group-title="All-in-One Entertainment", Hits Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITS Movies" tvg-logo="https://object-streamo.emonaja.com/img/hitsmovies.png" group-title="All-in-One Entertainment", Hits Movies (Alternative)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -737,6 +735,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 #EXTVLCOPT:http-referrer=https://tv.garden/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arirang.id" tvg-name="Arirang" tvg-logo="https://object-streamo.emonaja.com/img/arirang.png" group-title="All-in-One Entertainment", Arirang (Alternative/2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ARIRANG/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://object-streamo.emonaja.com/img/tvn.png" group-title="All-in-One Entertainment", TVN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
