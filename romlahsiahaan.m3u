@@ -2383,7 +2383,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d063630b46d1c/manifest.mpd
 
 #EXTINF:-1 tvg-chno="67" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News", Fox News
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1611
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="https://canvas-lb.tubitv.com/opts/cAw_Vy70Jq8YoQ==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjhAAQ==" group-title="News", LiveNow from Fox
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
