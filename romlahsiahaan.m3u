@@ -1491,7 +1491,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/6685.drm
-https://pidio.becek.workers.dev/6685.mpd
+#https://pidio.becek.workers.dev/6685.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 1 (Alternative)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1499,7 +1499,7 @@ https://pidio.becek.workers.dev/6685.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/17938.drm
-https://pidio.becek.workers.dev/17938.mpd
+#https://pidio.becek.workers.dev/17938.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 1 (Alternative/2)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1515,7 +1515,7 @@ https://pidio.becek.workers.dev/17938.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/6686.drm
-https://pidio.becek.workers.dev/6686.mpd
+#https://pidio.becek.workers.dev/6686.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 2 (Alternative)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1534,7 +1534,7 @@ https://pidio.becek.workers.dev/6686.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/6786.drm
-https://pidio.becek.workers.dev/6786.mpd
+#https://pidio.becek.workers.dev/6786.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 3 (Alternative)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1542,7 +1542,7 @@ https://pidio.becek.workers.dev/6786.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/19404.drm
-https://pidio.becek.workers.dev/19404.mpd
+#https://pidio.becek.workers.dev/19404.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 3 (Alternative/2)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1560,7 +1560,7 @@ https://pidio.becek.workers.dev/19404.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/9182.drm
-https://pidio.becek.workers.dev/9182.mpd
+#https://pidio.becek.workers.dev/9182.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 5 (Alternative)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1576,7 +1576,7 @@ https://pidio.becek.workers.dev/9182.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/9183.drm
-https://pidio.becek.workers.dev/9183.mpd
+#https://pidio.becek.workers.dev/9183.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-name="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 6 (Alternative)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1593,7 +1593,7 @@ https://pidio.becek.workers.dev/9183.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/9353.drm
 ##KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9353.drm
-https://pidio.becek.workers.dev/9353.mpd
+#https://pidio.becek.workers.dev/9353.mpd
 
 # FIFA+ #
 
@@ -1712,7 +1712,7 @@ https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="beIN.Sports.1.au" tvg-name="BEIN SPORTS 1" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="beIN Sports",beIN Sports 1 (Australia)
+#EXTINF:-1 tvg-id="beINSports" tvg-name="BEIN SPORTS 1" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="beIN Sports",beIN Sports 1 (Australia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1720,7 +1720,7 @@ https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 tvg-id="beIN.Sports.2.au" tvg-name="BEIN SPORTS 2" tvg-logo="https://object-streamo.emonaja.com/img/beinsports2.png" group-title="beIN Sports",beIN Sports 2 (Australia)
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="BEIN SPORTS 2" tvg-logo="https://object-streamo.emonaja.com/img/beinsports2.png" group-title="beIN Sports",beIN Sports 2 (Australia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1728,7 +1728,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-id="beIN.Sports.3.au" tvg-name="BEIN SPORTS 3" tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="beIN Sports",beIN Sports 3 (Australia)
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="BEIN SPORTS 3" tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="beIN Sports",beIN Sports 3 (Australia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1758,7 +1758,7 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=443239" tvg-id="443239" tvg-name="beIN SPORTS MAX 4" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="beIN Sports", beIN Sports MAX 4 (France)
-http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/212588
+http://opplextv.cyou:8080/nasir6160/nasir/350078
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=443103" tvg-id="443103" tvg-name="beIN SPORTS MAX 5" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="beIN Sports", beIN Sports MAX 5 (France)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
