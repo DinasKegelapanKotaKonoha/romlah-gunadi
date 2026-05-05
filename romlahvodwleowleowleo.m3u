@@ -188,4 +188,30 @@ https://d2tolhxlph2dpt.cloudfront.net/out/v1/ff384231fa32417fb18a07bb42d25cee/7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tolhxlph2dpt.cloudfront.net/out/v1/36385f09966b48e18b5499851d93be0d/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
 
+# Apose (2023) #
+
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/carousel_hdpi.webp" group-title="Apose (2023)", E01 Cita-Cita Wendi Ketinggian
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a77e354c4c394970b9a574f17af87eb1:11386500000000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/afe1-3129/manifest.mpd
+
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/carousel_hdpi.webp" group-title="Apose (2023)", E02 Hesti Punya Penggemar Misterius
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a77e354c4c394970b9a574f17af87eb1:11386500000000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vodnt/vmp1/ae5e-bc02/manifest.mpd
+
+E03-10 Incoming!
+
 ""MORE SERIES COMING SOON!!!""
