@@ -190,7 +190,7 @@ https://d2tolhxlph2dpt.cloudfront.net/out/v1/36385f09966b48e18b5499851d93be0d/7b
 
 # Apose (2023) #
 
-#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/carousel_hdpi.webp" group-title="Apose (2023)", E01 Cita-Cita Wendi Ketinggian
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E01 Cita-Cita Wendi Ketinggian
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -201,7 +201,7 @@ https://d2tolhxlph2dpt.cloudfront.net/out/v1/36385f09966b48e18b5499851d93be0d/7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn10jtedge.indihometv.com/vod/vmp1/afe1-3129/manifest.mpd
 
-#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/carousel_hdpi.webp" group-title="Apose (2023)", E02 Hesti Punya Penggemar Misterius
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E02 Hesti Punya Penggemar Misterius
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -212,6 +212,92 @@ https://cdn10jtedge.indihometv.com/vod/vmp1/afe1-3129/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn10jtedge.indihometv.com/vodnt/vmp1/ae5e-bc02/manifest.mpd
 
-E03-10 Incoming!
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E03 Surya Kesal Client Banyak Mau
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1504b64dce454651bd3fc2ee422430ff:febd0000000000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/99c8-bfba/manifest.mpd
+
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E04 Surya Masuk Nominasi Komedian Terlucu
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c433ca9fc72747b3a39e3b18e726fcc4:a5000000000000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/0b70-fb53/manifest.mpd
+
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E05 Niatnya Coba-Coba Malah Jadi Petaka
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21679d398c3b4697b0383ee07be92f21:657ec300000000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/9cc5-e071/manifest.mpd
+
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E06 Kelilit Hutang Pinjol Malah Bikin Kantong Jebol
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b47cb7f00004b29a7c17d98cd5813d6:338abe00000000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/cbca-7d3e/manifest.mpd
+
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E07 Rigen Akhirnya Menyatakan Cinta ke Hesti
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9709452258d4141a7ea8225ffbd9537:afe80000000000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/06b8-bd76/manifest.mpd
+
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E08 Kiky Pengantin Baru Bikin Susah
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9885b4dac3f04707837a9a4acb40cbea:0eee8aaa520000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/3a87-52e1/manifest.mpd
+
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E09 Wendi Bikin Masalah Lagi
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a823ed8a99b5405c8bf4e9dd3d89fdae:f321bffa3a0000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/4ce5-df5d/manifest.mpd
+
+#EXTINF:-1 type="series" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_5u2sq7w2/banner.webp" group-title="Apose (2023)", E10 Hesti dan Kiky Bantu Wendi Jadi Podcaster
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2627e68b68f4f32af8aa1595470457e:d4760000000000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/d029-7c72/manifest.mpd
 
 ""MORE SERIES COMING SOON!!!""
