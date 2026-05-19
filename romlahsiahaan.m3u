@@ -1365,8 +1365,8 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=6685&type=drm
-https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=6685&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=17938&type=drm
+https://vidx.semar.my.id/cobaduarr.mpd?id=17938&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports (Indonesia)", Champions TV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1391,8 +1391,8 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=dash
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=6686&type=drm
-https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=17939&type=drm
+https://vidx.semar.my.id/cobaduarr.mpd?id=17939&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports (Indonesia)", Champions TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1417,8 +1417,8 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=19404&type=drm
-https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=19404&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19404&type=drm
+https://vidx.semar.my.id/cobaduarr.mpd?id=19404&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports (Indonesia)", Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1435,8 +1435,8 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9182&type=drm
-https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=9182&type=drm
+https://vidx.semar.my.id/cobaduarr.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-name="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports (Indonesia)", Champions TV 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1453,8 +1453,8 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9183&type=drm
-https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=9183&type=drm
+https://vidx.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-id="ChampionsGolf1HD" tvg-name="Champions Golf 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/40/Logo_Champions_TV_Golf_1.png" group-title="Sports (Indonesia)", Champions Golf 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1842,35 +1842,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="beIN Sports", beIN Sports 3 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 data-source="Manual" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 1 Indonesia" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="beIN Sports", beIN Sports 1 (Emtek)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=6299&type=drm
-https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=6299&type=dash
-
-#EXTINF:-1 data-source="Manual" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="beIN Sports", beIN Sports 2 (Emtek)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=17875&type=drm
-https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=17875&type=dash
-
-#EXTINF:-1 data-source="Manual" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="beIN Sports", beIN Sports 3 (Emtek)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=6317&type=drm
-https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=6317&type=dash
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
@@ -2029,18 +2000,50 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 # Hub Premier #
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369784" tvg-id="369784" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="Hub Premier", Hub Premier 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.4.1 (Linux; Android 12; id_ID; 87das6) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-header=X-Requested-With=SemarHttpRequest
+#KODIPROP:inputstream.adaptive.stream_headers=X-Requested-With=SemarHttpRequest
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://sports.semar.my.id/manifest/HubPremier1.mpd|X-Requested-With=SemarHttpRequest
+
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369784" tvg-id="369784" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="Hub Premier", Hub Premier 1 (Alt)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
 https://012v4.goiptv.us.ci/stream/starhub/hubpremier1hd/
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369822" tvg-id="369822" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272" group-title="Hub Premier", Hub Premier 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.4.1 (Linux; Android 12; id_ID; 87das6) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-header=X-Requested-With=SemarHttpRequest
+#KODIPROP:inputstream.adaptive.stream_headers=X-Requested-With=SemarHttpRequest
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
+https://sports.semar.my.id/manifest/HubPremier2_4K.mpd|X-Requested-With=SemarHttpRequest
+
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369822" tvg-id="369822" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272" group-title="Hub Premier", Hub Premier 2 (Alt)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314078&extension=ts&play_token=1dWiSXJFZ1
 https://012v4.goiptv.us.ci/stream/starhub/hubpremier2hd/
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369793" tvg-id="369793" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="Hub Premier", Hub Premier 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.4.1 (Linux; Android 12; id_ID; 87das6) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-header=X-Requested-With=SemarHttpRequest
+#KODIPROP:inputstream.adaptive.stream_headers=X-Requested-With=SemarHttpRequest
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+https://sports.semar.my.id/manifest/HubPremier3.mpd|X-Requested-With=SemarHttpRequest
+
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369793" tvg-id="369793" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="Hub Premier", Hub Premier 3 (Alt)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314079&extension=ts&play_token=bW9r3i6SUO
 https://012v4.goiptv.us.ci/stream/starhub/hubpremier3hd/
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369775" tvg-id="369775" group-title="Hub Premier" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272", Hub Premier 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.4.1 (Linux; Android 12; id_ID; 87das6) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-header=X-Requested-With=SemarHttpRequest
+#KODIPROP:inputstream.adaptive.stream_headers=X-Requested-With=SemarHttpRequest
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
+https://sports.semar.my.id/manifest/HubPremier4.mpd|X-Requested-With=SemarHttpRequest
+
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369775" tvg-id="369775" group-title="Hub Premier" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272", Hub Premier 4 (Alt)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
 https://012v4.goiptv.us.ci/stream/starhub/hubpremier4hd/
 
