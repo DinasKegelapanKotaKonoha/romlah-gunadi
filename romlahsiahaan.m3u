@@ -1858,7 +1858,7 @@ https://012v4.goiptv.us.ci/stream/starhub/hubpremier8hd/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-chno="147" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports (English Language)", TSN 1 (Alt)
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1195.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="Sports (English Language)", TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -1867,7 +1867,7 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1195.ts
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-chno="148" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="Sports (English Language)", TSN 2 (Alt)
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/175.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports (English Language)", TSN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -2963,11 +2963,17 @@ https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
+#EXTINF:-1 tvg-chno="147" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports (English Language)", TSN 1 (Canada/Alt)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="FIFA World Cup 2026 Channels (Outside ASEAN Broadcasters)", TSN 2 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-chno="148" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="Sports (English Language)", TSN 2 (Canada/Alt)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="FIFA World Cup 2026 Channels (Outside ASEAN Broadcasters)", TSN 3 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -2992,6 +2998,18 @@ https://xemzi.short.gy/1000001
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="FIFA World Cup 2026 Channels (Outside ASEAN Broadcasters)", BBC Two (United Kingdom)
 https://xemzi.short.gy/1000002
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="iTV1 FHD" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026 Channels (Outside ASEAN Broadcasters)", iTV 1 (United Kingdom)
+https://xemzi.short.gy/1000011
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="iTV1 FHD" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026 Channels (Outside ASEAN Broadcasters)", iTV 1 (United Kingdom/Alt)
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptj3lPI8UBnoHcZAWrFT58u/m3u8
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="iTV4 FHD" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="FIFA World Cup 2026 Channels (Outside ASEAN Broadcasters)", iTV 4 (United Kingdom)
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptHoaHIQUz0kzgA53CKR6i7/m3u8
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="iTV4 FHD" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="FIFA World Cup 2026 Channels (Outside ASEAN Broadcasters)", iTV 4 (United Kingdom/Altl
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpt9y16aErYTYZYc7ikTonIl/m3u8
 
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="FIFA World Cup 2026 Channels (Outside ASEAN Broadcasters)" radio="false", beIN Sports 1 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
